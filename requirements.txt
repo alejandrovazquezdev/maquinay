@@ -1,0 +1,5 @@
+# Dependencias de producción
+# Agregar aquí las dependencias necesarias para ejecutar el proyecto
+# Ejemplo:
+# requests>=2.31.0
+# numpy>=1.24.0
